@@ -1,0 +1,147 @@
+
+body {
+    margin: 50px 50px;
+}
+
+.top-page{
+    background-color: rgb(31, 41, 55);
+    color: #F9FAF8;
+    
+}  
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+}
+
+.a-link {
+    text-decoration: none;
+    color:#f9faf899;
+    padding: 0 10px;
+}
+
+.main-top {
+    display: flex;
+    padding: 100px 100px;
+}
+
+.left-top {
+    padding-right: 30px;
+}
+
+.left-desc {
+    color: #f9faf8c8;
+}
+
+.button-top {
+    background-color: #3B82F6;
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.img-main {
+    max-height: 250px;
+}
+
+.middle-page {
+    padding: 10 400px;
+}
+
+.title-middle-page {
+    padding: 10px 50px;
+    text-align: center;
+}
+
+.img-container {
+    display: flex;
+    padding: 0 50px;
+    justify-content: space-evenly;
+}
+
+.img-div {
+    text-align: center;
+    width: 155px;
+}
+
+.img-middle {
+    width: 150px;
+    height: 150px;
+    border: 3px solid; 
+    border-color: #3B82F6;
+    border-radius: 10px;
+    
+}
+
+.quote-div {
+    background-color: #f6f7f7;
+    padding: 80px;
+}
+
+.quote {
+    padding: 0 100px;
+    text-align: center;
+    font-style: italic;    
+}
+
+.quote-author {
+    padding: 0 130px;
+    text-align: end;
+    font-weight: bold;
+}
+
+.sign-up-form {
+    background-color: #3B82F6;
+    margin: 20px 150px;
+    border-radius: 10px;
+    display: flex;
+    color:#f6f7f7;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+    
+}
+
+.sign-up-left {
+    margin-right: 50px;
+}
+
+.sign-up-right {
+    margin-left: 50px;
+}
+
+.sign-up-title {
+    margin: 0;
+}
+
+.sign-up-desc {
+    margin: 5px 0;
+    color: #f9faf8b0;
+}
+
+.button-sign-up {
+    background-color: #3B82F6;
+    border-radius: 5px;
+    border: 2px solid white;
+    padding: 5px 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.footer {
+    margin: 20px 0;
+    padding: 10px 100px;
+    background-color: rgb(31, 41, 55);
+}
+
+.footer-text {
+    color:#f6f7f7;
+    text-align: center;
+}

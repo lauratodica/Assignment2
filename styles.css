@@ -1,10 +1,11 @@
 
 body {
     margin: 50px 50px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .top-page{
-    background-color: rgb(31, 41, 55);
+    background-color:#1F2937;
     color: #F9FAF8;
     
 }  
@@ -15,6 +16,10 @@ body {
     padding: 0 100px;
 }
 
+.nav-title {
+    font-size: 24px;
+}
+
 .nav-links {
     display: flex;
     align-items: center;
@@ -22,8 +27,9 @@ body {
 
 .a-link {
     text-decoration: none;
-    color:#f9faf899;
+    color: #E5E7EB;
     padding: 0 10px;
+    font-size: 18px;
 }
 
 .main-top {
@@ -35,8 +41,15 @@ body {
     padding-right: 30px;
 }
 
+.left-title {
+    font-size: 48px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+
 .left-desc {
-    color: #f9faf8c8;
+    color: #E5E7EB;
+    font-size: 18px ;
 }
 
 .button-top {
@@ -58,6 +71,9 @@ body {
 .title-middle-page {
     padding: 10px 50px;
     text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color: #1F2937;
 }
 
 .img-container {
@@ -81,14 +97,17 @@ body {
 }
 
 .quote-div {
-    background-color: #f6f7f7;
+    background-color: #E5E7EB;
     padding: 80px;
 }
 
 .quote {
     padding: 0 100px;
     text-align: center;
-    font-style: italic;    
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;   
 }
 
 .quote-author {
@@ -138,7 +157,7 @@ body {
 .footer {
     margin: 20px 0;
     padding: 10px 100px;
-    background-color: rgb(31, 41, 55);
+    background-color:#1F2937;
 }
 
 .footer-text {

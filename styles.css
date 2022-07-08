@@ -99,6 +99,7 @@ body {
 .quote-div {
     background-color: #E5E7EB;
     padding: 80px;
+    margin: 50px 0;
 }
 
 .quote {
@@ -118,7 +119,7 @@ body {
 
 .sign-up-form {
     background-color: #3B82F6;
-    margin: 20px 150px;
+    margin: 50px 150px;
     border-radius: 10px;
     display: flex;
     color:#f6f7f7;
